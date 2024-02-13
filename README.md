@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davi lucas 
+- 👋 Hi, I’m davi lucas 
 - 👀 I’m interested in progamação front end e web
 - 🌱 I’m currently learning english and JavaScript
 - estou cursando ADS na puc - minas betim
