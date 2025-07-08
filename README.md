@@ -1,12 +1,41 @@
-- 👋 Hi, I’m davi lucas 
-- 👀 I’m interested in progamação front end e web
-- 🌱 I’m currently learning english and JavaScript
-- estou cursando ADS na puc - minas betim
-- 💞️ I’m looking to collaborate on ...
-- 📫 conecte-se a mim no linkedin : www.linkedin.com/in/davilucas-carmo
-- instagram: @davilucas_cn
+# 👋 Olá, eu sou o Davi Lucas!
 
-<!---
-davilucas156/davilucas156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Minas - Campus Betim**  *Nortuno*
+📈 Interesse crescente em **gestão de pessoas**, **Product Owner (PO)**, **inteligência artificial** e **usabilidade**  
+🌍 Atualmente aprendendo **JavaScript** e **Inglês**  
+🚀 Já trabalhei com **React**, **C#/.NET**, **MySQL**, **APIs RESTful**, **GitHub**, **Scrum**, entre outras tecnologias
+
+---
+
+## 🧠 Tecnologias que venho estudando
+
+- React.js ⚛️  
+- JavaScript 📜  
+- C# com .NET 🧩  
+- MySQL 🗃️  
+- HTML & CSS 🎨  
+- Git e GitHub 🔧  
+- Metodologias Ágeis (Scrum) 🧪  
+
+---
+
+## 🌟 Interesses
+
+- Desenvolvimento Front-End
+- Web Design & UX/UI
+- Liderança e Gestão de Pessoas
+- Product Owner (PO) e Agilidade
+- Inteligência Artificial aplicada a soluções educacionais
+- Aprendizado contínuo 📚
+
+---
+
+## 📫 Vamos nos conectar!
+
+- [LinkedIn](https://www.linkedin.com/in/davilucas-carmo)  
+- Instagram: [@davilucas_cn](https://www.instagram.com/davilucas_cn)  
+- GitHub: [@davilucas156](https://github.com/davilucas156)  
+
+---
+
+Fique à vontade para explorar os projetos que venho desenvolvendo aqui no GitHub. Estou sempre aberto a colaborações, ideias e feedbacks construtivos!
