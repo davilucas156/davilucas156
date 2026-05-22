@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Davi Lucas!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Minas - Campus Betim**  *Nortuno*
-📈 Interesse crescente em **gestão de pessoas**, **Product Owner (PO)**,**Scrum** **inteligência artificial** e **usabilidade**  
+📈 Interesse crescente em **gestão de pessoas**, **Product Owner (PO)**,**Scrum** **inteligência artificial** 
 🌍 Atualmente aprendendo **JavaScript** e **Inglês**  
 🚀 Já trabalhei com **React**, **C#/.NET**, **MySQL**, **APIs RESTful**, **GitHub**, **Scrum**, entre outras tecnologias
 
@@ -21,11 +21,9 @@
 
 ## 🌟 Interesses
 
-- Desenvolvimento Front-End
-- Web Design & UX/UI
 - Liderança e Gestão de Pessoas
 - Product Owner (PO) e Agilidade
-- Inteligência Artificial aplicada a soluções educacionais
+- Inteligência Artificial aplicada 
 - Aprendizado contínuo 📚
 
 ---
