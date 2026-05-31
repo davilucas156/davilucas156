@@ -1,53 +1,38 @@
-Olá, eu sou o Davi Lucas
+Bem vindo ao meu repositório
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas – Campus Betim
-🚀 Apaixonado por tecnologia, produtos digitais e metodologias ágeis
-📌 Direcionando minha carreira para as áreas de Product Owner (PO), gestão de produtos e times ágeis
-💻 Tenho experiência prática no desenvolvimento de aplicações utilizando React, C#/.NET, APIs RESTful e metodologias como Scrum
+ Estudante de Análise e Desenvolvimento de Sistemas na PUC Minas
 
-🧠 Sobre mim
+* Profissional em formação com experiência em desenvolvimento de software e forte interesse em Produtos Digitais, Agilidade e Gestão de Times.
 
-Gosto de participar da construção de produtos desde a ideia até a entrega final, unindo visão de negócio, experiência do usuário e tecnologia.
-Tenho interesse especial em:
+Atualmente atuo como Desenvolvedor Estagiário em um ambiente ERP corporativo(Netsuite), participando de processos de desenvolvimento, testes e correção de bugs em TypeScript. Trabalho em equipes organizadas por Scrum, participando ativamente de cerimônias ágeis, planejamento de atividades e acompanhamento de entregas.
 
-Gestão de Produtos Digitais
+Embora tenha uma base técnica em desenvolvimento web e back-end, meu principal interesse está na interseção entre tecnologia, pessoas e negócio. Gosto de entender problemas, organizar soluções, facilitar a comunicação entre diferentes áreas e contribuir para que produtos gerem valor real para seus usuários.
+
+ *Áreas de Interesse
 Product Owner (PO)
-Scrum e Agilidade
-Inteligência Artificial aplicada
-Organização e liderança de equipes
-Desenvolvimento de soluções com foco no usuário
+Product Management
+Scrum e Metodologias Ágeis
+Liderança e Gestão de Pessoas
+Inteligência Artificial aplicada a produtos e processos
+Desenvolvimento de Software
+*Tecnologias e Ferramentas
+TypeScript
+JavaScript
+React
+C# / .NET
+APIs RESTful
+MySQL
+Git
+Azure DevOps
+Scrum
+Figma
+*Atualmente
+Atuando em um ambiente corporativo utilizando Scrum no dia a dia
+Aprendendo mais sobre produtos digitais e gestão de backlog
+Desenvolvendo visão de negócio e tomada de decisão orientada ao usuário
+Explorando aplicações de Inteligência Artificial para produtividade e geração de valor
+🎯 Objetivo Profissional
 
-Atualmente venho buscando evoluir tanto minhas habilidades técnicas quanto minha visão estratégica sobre produtos e processos.
+Construir uma carreira na área de Produtos Digitais, evoluindo para posições de Product Owner e, futuramente, Product Manager, utilizando minha base técnica para conectar as necessidades do negócio, dos usuários e dos times de desenvolvimento.
 
-⚙️ Tecnologias e Ferramentas
-React.js ⚛️
-JavaScript 📜
-C# / ASP.NET Core 🧩
-Entity Framework 🔗
-MySQL & SQL Server 🗃️
-Git & GitHub 🔧
-APIs RESTful 🌐
-Scrum 🏃
-Trello & organização ágil 📋
-Figma 🎨
-📌 Experiências e Projetos
-
-💡 Desenvolvimento de sistemas acadêmicos
-🎮 Projeto de plataforma gamificada para educação
-🚗 Sistema de locadora com integração front-end e back-end
-📦 Construção de APIs RESTful com ASP.NET Core
-🧩 Organização de projetos utilizando Scrum e divisão de sprints semanais
-🎯 Participação em levantamento de requisitos, modelagem e planejamento de funcionalidades
-
-📈 Atualmente focado em
-Evoluir na área de Produto e Agilidade
-Aprender mais sobre gestão de times e processos
-Melhorar minha visão estratégica de produtos digitais
-Desenvolver aplicações modernas com foco em experiência do usuário
-Explorar IA aplicada ao desenvolvimento de software
-📫 Contato
-LinkedIn: LinkedIn
-Instagram: @davilucas_cn
-GitHub: @davilucas156
-
-⭐ Acredito que bons produtos nascem da combinação entre tecnologia, organização, comunicação e entendimento real das necessidades das pessoas.
+⭐ Acredito que grandes produtos são construídos quando tecnologia, pessoas e propósito trabalham na mesma direção.
