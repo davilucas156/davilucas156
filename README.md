@@ -8,14 +8,14 @@ Atualmente atuo como Desenvolvedor Estagiário em um ambiente ERP corporativo(Ne
 
 Embora tenha uma base técnica em desenvolvimento web e back-end, meu principal interesse está na interseção entre tecnologia, pessoas e negócio. Gosto de entender problemas, organizar soluções, facilitar a comunicação entre diferentes áreas e contribuir para que produtos gerem valor real para seus usuários.
 
- *Áreas de Interesse
+ * Áreas de Interesse
 Product Owner (PO)
 Product Management
 Scrum e Metodologias Ágeis
 Liderança e Gestão de Pessoas
 Inteligência Artificial aplicada a produtos e processos
 Desenvolvimento de Software
-*Tecnologias e Ferramentas
+* Tecnologias e Ferramentas
 TypeScript
 JavaScript
 React
@@ -26,7 +26,7 @@ Git
 Azure DevOps
 Scrum
 Figma
-*Atualmente
+* Atualmente
 Atuando em um ambiente corporativo utilizando Scrum no dia a dia
 Aprendendo mais sobre produtos digitais e gestão de backlog
 Desenvolvendo visão de negócio e tomada de decisão orientada ao usuário
